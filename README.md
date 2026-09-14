@@ -71,9 +71,9 @@ React와 TypeScript로 **사람들이 실제로 쓰는 화면**을 만듭니다.
       <h3>02 — HALE 🫧</h3>
       <p><b>맞춤형 피부 관리 루틴 서비스</b></p>
       <p>피부 상태에 따라 집중·데일리 케어 루틴과 제품을 연결합니다.</p>
-      <code>React</code> <code>TypeScript</code> <code>AWS</code>
+      <code>React</code> <code>TypeScript</code> 
       <br/><br/>
-      <sub>사용자 플로우 · REST API · 상태 관리 · 배포</sub>
+      <sub>사용자 플로우 · REST API · 상태 관리 </sub>
     </td>
   </tr>
   <tr>
