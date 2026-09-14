@@ -68,7 +68,7 @@ React와 TypeScript로 **사람들이 실제로 쓰는 화면**을 만듭니다.
       <sub>펌웨어 · 프로비저닝 · 다중 RX 수집 · CSI Stream</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>02 — FocusCare 🫧</h3>
+      <h3>02 — HALE 🫧</h3>
       <p><b>맞춤형 피부 관리 루틴 서비스</b></p>
       <p>피부 상태에 따라 집중·데일리 케어 루틴과 제품을 연결합니다.</p>
       <code>React</code> <code>TypeScript</code> <code>AWS</code>
