@@ -1,155 +1,222 @@
 <div align="center">
 
 
-Frontend Developer
+
+<p>
+  사용자에게 필요한 경험을 발견하고,<br/>
+  <b>기획부터 개발·배포·운영까지 끝까지 구현하는 개발자 김예나입니다.</b>
+</p>
+
+<a href="https://github.com/aney0714"><img src="https://img.shields.io/badge/GitHub-aney0714-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
-🙋‍♀️ About Me
+<br/>
+
+✦ About Me
+
+
+
+
+
+🎓 Major
 
 덕성여자대학교 경영학과 · 디지털소프트웨어공학부 복수전공
 
-React와 TypeScript를 중심으로 웹 프론트엔드를 개발
+💻 Focus
 
-기획부터 개발, 배포, 운영까지 실제 사용자가 있는 프로젝트를 경험
+React · TypeScript 기반 웹 프론트엔드 개발
 
-최근에는 ESP32-S3와 Wi-Fi CSI를 활용한 비접촉 행동 감지 시스템을 개발 중
+🚀 Experience
 
-🧑‍💻 Experience
+기획 → 개발 → 배포 → 실제 서비스 운영
 
-기간
+📡 Exploring
 
-활동
+ESP32-S3 · Wi-Fi CSI 기반 비접촉 행동 감지
 
-역할 및 경험
+<br/>
+
+✦ Highlights
+
+<div align="center">
+
+6,000+
+
+1,100+
+
+2 Years
+
+Frontend + CSI
+
+축제 사이트 사용자
+
+최대 동시 접속자
+
+멋쟁이사자처럼
+
+웹과 임베디드 경험
+
+</div>
+
+<br/>
+
+✦ Experience
+
+Year
+
+Activity
+
+Role & Achievement
 
 2025
 
-덕성여대 멋쟁이사자처럼 13기
+🦁 멋쟁이사자처럼 13기
 
-프론트엔드 아기사자 · 중앙해커톤 참여
+프론트엔드 아기사자 · 중앙해커톤 · 데모데이 참여
 
 2026
 
-덕성여대 멋쟁이사자처럼 14기
+🦁 멋쟁이사자처럼 14기
 
 프론트엔드 운영진 · 아기사자 교육 및 운영
 
 2026
 
-근화제 축제 웹사이트
+🌸 근화제 축제 웹사이트
 
-프론트엔드 개발 · 동시 접속자 1,100명 이상, 누적 사용자 6,000명 이상 서비스 운영 경험
-
-2026
-
-중앙해커톤
-
-프론트엔드 개발 · React·TypeScript 기반 서비스 구현 및 배포
+프론트엔드 개발 · 사용자 6,000+, 최대 동시 접속자 1,100+
 
 2026
 
-여기톤
+🏆 중앙해커톤
 
-프론트엔드 참여
+React·TypeScript 기반 서비스 구현 및 배포
 
 2026
 
-졸업프로젝트 CareWave
+👩‍💻 여기톤
 
-ESP32-S3 펌웨어·프로비저닝·CSI 데이터 수집 및 행동 분류 모델 개발 진행 중
+프론트엔드 개발 참여
 
-🚀 Projects
+2026
 
-CareWave | 비접촉 행동 감지 시스템
+📡 졸업프로젝트 CareWave
 
-ESP32-S3 기반 Wi-Fi CSI를 활용해 사용자의 행동과 낙상을 감지하는 졸업프로젝트
+ESP32-S3 펌웨어·프로비저닝·CSI 데이터 수집 및 행동 분류 모델 개발 중
 
-ESP32-S3 송수신 보드의 펌웨어 및 네트워크 프로비저닝 구현
+<br/>
 
-다중 수신기의 CSI 데이터 수집·전처리 환경 구성
+✦ Featured Projects
 
-서기·눕기·낙상 분류를 위한 CSI Stream 모델 개발 진행 중
+Project
 
-실시간 분류 결과를 시각화하는 대시보드 설계 참여
+Description
 
-근화제 축제 웹사이트
+What I Did
 
-교내 축제 정보를 제공하고 실제 행사 기간에 운영한 웹서비스
+Tech
 
-React·TypeScript 기반 프론트엔드 개발
+📡 CareWave
+비접촉 행동 감지 시스템
 
-동시 접속자 1,100명 이상, 누적 사용자 6,000명 이상 대응
+Wi-Fi CSI로 사용자의 행동과 낙상을 감지하는 졸업프로젝트
 
-실제 사용자 피드백과 운영 환경을 고려한 기능 개선 경험
+ESP32-S3 펌웨어·프로비저닝
+다중 RX 데이터 수집 환경 구성
+CSI Stream 모델 개발 중
 
-FocusCare | 맞춤형 피부 관리 서비스
+ESP32-S3 Python Wi-Fi CSI
 
-사용자의 피부 상태에 맞는 케어 루틴과 제품을 추천하는 웹서비스
+🌸 근화제
+교내 축제 웹사이트
 
-React·TypeScript 기반 집중 케어·데일리 케어 플로우 구현
+실제 행사 기간 사용자 6,000명 이상이 이용한 서비스
 
-REST API 연동과 사용자별 상태 관리
+React·TypeScript 프론트엔드 개발
+실사용 환경 대응 및 기능 개선
 
-복잡한 케어 진행 상태와 예외 상황을 고려한 화면 흐름 구현
+React TypeScript Vite
 
-AWS S3·CloudFront 기반 배포 경험
+🫧 FocusCare
+맞춤형 피부 관리 서비스
 
-<!-- 프로젝트 저장소가 있다면 아래 형식의 링크를 각 프로젝트 제목 아래에 추가하세요.
-[Repository](https://github.com/GITHUB_ID/REPOSITORY_NAME) · [Demo](배포주소)
+피부 상태에 맞춰 케어 루틴과 제품을 추천하는 웹서비스
+
+집중·데일리 케어 플로우 구현
+REST API 및 사용자별 상태 연동
+S3·CloudFront 배포
+
+React TypeScript AWS
+
+<!-- 저장소와 배포 링크가 준비되면 프로젝트 이름 아래에 추가하세요.
+[Repository](https://github.com/aney0714/REPOSITORY_NAME) · [Demo](배포주소)
 -->
 
-💻 Tech Stack
+<br/>
+
+✦ Tech Stack
+
+<div align="center">
+
+Main
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,styledcomponents,vite&theme=dark" alt="Main frontend skills" />
+
+Studying & Exploring
+
+<img src="https://skillicons.dev/icons?i=python,mysql,firebase&theme=dark" alt="Data and platform skills" />
+&nbsp;
+<img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32-S3" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white" alt="Zustand" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+
+Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,aws,vscode&theme=dark" alt="Tools and deployment" />
+
+</div>
+
+<br/>
+
+✦ Currently Growing
 
 Frontend
 
+AI · Embedded
 
-
-
-
-
-
-
-
-
-
-Data · Embedded
-
-
-
-
-
-Tools · Deployment
-
-
-
-
-
-
-
-
-📚 Currently Learning
-
-TypeScript 심화
-
-Zustand를 활용한 클라이언트 상태 관리
-
-TanStack Query를 활용한 서버 상태 관리
+TypeScript 심화 학습
 
 CSI 데이터 기반 행동 분류 모델
 
-📫 Contact
+Zustand 클라이언트 상태 관리
 
-<!-- 아래 GITHUB_ID와 EMAIL을 본인의 정보로 바꿔주세요. -->
+실시간 센서 데이터 수집·전처리
 
+TanStack Query 서버 상태 관리
 
+ESP32-S3 네트워크 프로비저닝
 
+<br/>
 
-📊 GitHub Stats
-
-<!-- 아래의 GITHUB_ID 두 곳을 본인의 GitHub 아이디로 바꿔주세요. -->
+✦ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aney0714&show_icons=true&hide_border=true&theme=default" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aney0714&layout=compact&hide_border=true&theme=default" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aney0714&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=FF6B9D&text_color=E6EDF3" height="165" alt="Yena's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aney0714&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" height="165" alt="Yena's top languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aney0714&bg_color=0D1117&color=A78BFA&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Yena's contribution graph" />
+</div>
+
+<br/>
+
+<div align="center">
+
+Thanks for visiting ✨
+
+<sub>사용자의 필요를 기술로 연결하기 위해 꾸준히 만들고 기록합니다.</sub>
+
+</div>
+
