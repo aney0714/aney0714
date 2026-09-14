@@ -1,222 +1,125 @@
 <div align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Yena Kim — Frontend Developer" />
+</div>
 
+<br/>
 
+### 안녕하세요, 김예나입니다.
 
-<p>
-  사용자에게 필요한 경험을 발견하고,<br/>
-  <b>기획부터 개발·배포·운영까지 끝까지 구현하는 개발자 김예나입니다.</b>
+React와 TypeScript로 **사람들이 실제로 쓰는 화면**을 만듭니다.  
+경영학과 디지털소프트웨어공학을 함께 공부했고, 요즘은 ESP32-S3와 Wi-Fi CSI까지 개발 범위를 넓히고 있습니다.
+
+`사용자 6,000+`　`동시 접속 1,100+`　`프론트엔드 운영진`　`CSI 모델 개발 중`
+
+---
+
+## work.log
+
+<table>
+  <thead>
+    <tr>
+      <th width="90">YEAR</th>
+      <th width="270">ACTIVITY</th>
+      <th>WHAT I DID</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>2025</b></td>
+      <td>멋쟁이사자처럼 13기</td>
+      <td>프론트엔드 아기사자 · 중앙해커톤 · 데모데이</td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="5"><b>2026</b></td>
+      <td>멋쟁이사자처럼 14기</td>
+      <td>프론트엔드 운영진 · 아기사자 교육 및 운영</td>
+    </tr>
+    <tr>
+      <td>근화제 축제 웹사이트</td>
+      <td>프론트엔드 개발 · 사용자 <b>6,000+</b> · 동시 접속자 <b>1,100+</b></td>
+    </tr>
+    <tr>
+      <td>중앙해커톤</td>
+      <td>React·TypeScript 기반 서비스 구현 및 배포</td>
+    </tr>
+    <tr>
+      <td>여기톤</td>
+      <td>프론트엔드 개발 참여</td>
+    </tr>
+    <tr>
+      <td>졸업프로젝트 CareWave</td>
+      <td>ESP32-S3 펌웨어·프로비저닝·CSI 데이터 수집·행동 분류 모델</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## selected.work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 — CareWave 📡</h3>
+      <p><b>카메라 없는 비접촉 행동 감지 시스템</b></p>
+      <p>ESP32-S3 송수신 보드와 Wi-Fi CSI를 이용해 서기·눕기·낙상을 분류합니다.</p>
+      <code>ESP32-S3</code> <code>Python</code> <code>Wi-Fi CSI</code>
+      <br/><br/>
+      <sub>펌웨어 · 프로비저닝 · 다중 RX 수집 · CSI Stream</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 — FocusCare 🫧</h3>
+      <p><b>맞춤형 피부 관리 루틴 서비스</b></p>
+      <p>피부 상태에 따라 집중·데일리 케어 루틴과 제품을 연결합니다.</p>
+      <code>React</code> <code>TypeScript</code> <code>AWS</code>
+      <br/><br/>
+      <sub>사용자 플로우 · REST API · 상태 관리 · 배포</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 — 근화제 🌸</h3>
+      <p><b>교내 축제 실시간 정보 서비스</b></p>
+      <p>행사 기간 6,000명 이상이 사용한 축제 웹사이트의 프론트엔드를 개발했습니다.</p>
+      <code>React</code> <code>TypeScript</code> <code>Vite</code>
+      <br/><br/>
+      <sub>실서비스 운영 · 트래픽 대응 · 기능 개선</sub>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <h3>more to come...</h3>
+      <p>작게 시작해도<br/><b>실제로 작동하는 결과</b>까지 만듭니다.</p>
+      <a href="https://github.com/aney0714?tab=repositories">view repositories →</a>
+    </td>
+  </tr>
+</table>
+
+<!-- 프로젝트 저장소가 공개되면 각 카드 제목에 링크를 연결하세요. -->
+
+---
+
+## toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,styledcomponents,vite,python,mysql,firebase,git,github,figma,postman,aws,vscode&perline=8&theme=dark" alt="Tech stack" />
 </p>
 
-<a href="https://github.com/aney0714"><img src="https://img.shields.io/badge/GitHub-aney0714-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32-S3" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+</p>
 
-</div>
+---
 
-<br/>
-
-✦ About Me
-
-
-
-
-
-🎓 Major
-
-덕성여자대학교 경영학과 · 디지털소프트웨어공학부 복수전공
-
-💻 Focus
-
-React · TypeScript 기반 웹 프론트엔드 개발
-
-🚀 Experience
-
-기획 → 개발 → 배포 → 실제 서비스 운영
-
-📡 Exploring
-
-ESP32-S3 · Wi-Fi CSI 기반 비접촉 행동 감지
-
-<br/>
-
-✦ Highlights
+## github.output
 
 <div align="center">
-
-6,000+
-
-1,100+
-
-2 Years
-
-Frontend + CSI
-
-축제 사이트 사용자
-
-최대 동시 접속자
-
-멋쟁이사자처럼
-
-웹과 임베디드 경험
-
+  <img src="https://github-readme-stats.vercel.app/api?username=aney0714&show_icons=true&include_all_commits=true&hide_border=true&bg_color=11101B&title_color=A99BFF&icon_color=FF7DAE&text_color=E8E3F2" height="155" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aney0714&layout=compact&hide_border=true&bg_color=11101B&title_color=A99BFF&text_color=E8E3F2" height="155" alt="Top languages" />
 </div>
 
 <br/>
 
-✦ Experience
-
-Year
-
-Activity
-
-Role & Achievement
-
-2025
-
-🦁 멋쟁이사자처럼 13기
-
-프론트엔드 아기사자 · 중앙해커톤 · 데모데이 참여
-
-2026
-
-🦁 멋쟁이사자처럼 14기
-
-프론트엔드 운영진 · 아기사자 교육 및 운영
-
-2026
-
-🌸 근화제 축제 웹사이트
-
-프론트엔드 개발 · 사용자 6,000+, 최대 동시 접속자 1,100+
-
-2026
-
-🏆 중앙해커톤
-
-React·TypeScript 기반 서비스 구현 및 배포
-
-2026
-
-👩‍💻 여기톤
-
-프론트엔드 개발 참여
-
-2026
-
-📡 졸업프로젝트 CareWave
-
-ESP32-S3 펌웨어·프로비저닝·CSI 데이터 수집 및 행동 분류 모델 개발 중
-
-<br/>
-
-✦ Featured Projects
-
-Project
-
-Description
-
-What I Did
-
-Tech
-
-📡 CareWave
-비접촉 행동 감지 시스템
-
-Wi-Fi CSI로 사용자의 행동과 낙상을 감지하는 졸업프로젝트
-
-ESP32-S3 펌웨어·프로비저닝
-다중 RX 데이터 수집 환경 구성
-CSI Stream 모델 개발 중
-
-ESP32-S3 Python Wi-Fi CSI
-
-🌸 근화제
-교내 축제 웹사이트
-
-실제 행사 기간 사용자 6,000명 이상이 이용한 서비스
-
-React·TypeScript 프론트엔드 개발
-실사용 환경 대응 및 기능 개선
-
-React TypeScript Vite
-
-🫧 FocusCare
-맞춤형 피부 관리 서비스
-
-피부 상태에 맞춰 케어 루틴과 제품을 추천하는 웹서비스
-
-집중·데일리 케어 플로우 구현
-REST API 및 사용자별 상태 연동
-S3·CloudFront 배포
-
-React TypeScript AWS
-
-<!-- 저장소와 배포 링크가 준비되면 프로젝트 이름 아래에 추가하세요.
-[Repository](https://github.com/aney0714/REPOSITORY_NAME) · [Demo](배포주소)
--->
-
-<br/>
-
-✦ Tech Stack
-
-<div align="center">
-
-Main
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,styledcomponents,vite&theme=dark" alt="Main frontend skills" />
-
-Studying & Exploring
-
-<img src="https://skillicons.dev/icons?i=python,mysql,firebase&theme=dark" alt="Data and platform skills" />
-&nbsp;
-<img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32-S3" />
-<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white" alt="Zustand" />
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
-
-Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,aws,vscode&theme=dark" alt="Tools and deployment" />
-
+<div align="right">
+  <a href="https://github.com/aney0714">github.com/aney0714</a>
 </div>
-
-<br/>
-
-✦ Currently Growing
-
-Frontend
-
-AI · Embedded
-
-TypeScript 심화 학습
-
-CSI 데이터 기반 행동 분류 모델
-
-Zustand 클라이언트 상태 관리
-
-실시간 센서 데이터 수집·전처리
-
-TanStack Query 서버 상태 관리
-
-ESP32-S3 네트워크 프로비저닝
-
-<br/>
-
-✦ GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aney0714&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=FF6B9D&text_color=E6EDF3" height="165" alt="Yena's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aney0714&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" height="165" alt="Yena's top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aney0714&bg_color=0D1117&color=A78BFA&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Yena's contribution graph" />
-</div>
-
-<br/>
-
-<div align="center">
-
-Thanks for visiting ✨
-
-<sub>사용자의 필요를 기술로 연결하기 위해 꾸준히 만들고 기록합니다.</sub>
-
-</div>
-
