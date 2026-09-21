@@ -6,10 +6,8 @@
 
 ### 안녕하세요, 김예나입니다.
 
-React와 TypeScript로 **사람들이 실제로 쓰는 화면**을 만듭니다.  
-경영학과 디지털소프트웨어공학을 함께 공부했고, 요즘은 ESP32-S3와 Wi-Fi CSI까지 개발 범위를 넓히고 있습니다.
-
-`혁신부문 최우수상`　`사용자 6,000+`　`동시 접속 1,100+`　`프론트엔드 운영진`
+🏫덕성여자대학교 23학번
+📚경영 & 디지털소프트웨어공학
 
 ---
 
@@ -35,23 +33,23 @@ React와 TypeScript로 **사람들이 실제로 쓰는 화면**을 만듭니다.
       <td>프론트엔드 운영진 · 아기사자 교육 및 운영</td>
     </tr>
     <tr>
-      <td>근화제 축제 웹사이트</td>
+      <td><a href="https://github.com/2026-LIKELION-DS">근화제 축제 웹사이트</a></td>
       <td>프론트엔드 개발 · 사용자 <b>6,000+</b> · 동시 접속자 <b>1,100+</b></td>
     </tr>
     <tr>
-      <td>중앙해커톤</td>
-      <td>React·TypeScript 기반 서비스 구현 및 배포</td>
+      <td><a href="https://github.com/duckswell">중앙해커톤 — HALE</a></td>
+      <td>피부 시술 후 맞춤 회복 관리 서비스 개발·배포</td>
     </tr>
     <tr>
-      <td>어흥콘 — HALE 🏆</td>
-      <td>프론트엔드 · 온보딩 및 게스트 UUID 기능 리팩터링 · <b>혁신부문 최우수상</b></td>
+      <td><a href="https://github.com/duckswell">어흥콘 — HALE 리팩토링 🏆</a></td>
+      <td>온보딩 페이지·게스트 UUID 기능 추가 · <b>혁신부문 최우수상</b> (21팀·124명)</td>
     </tr>
     <tr>
-      <td>여기톤</td>
+      <td><a href="https://github.com/2026-HERETHON/2026-herethon-4">여기톤</a></td>
       <td>프론트엔드 개발 참여</td>
     </tr>
     <tr>
-      <td>졸업프로젝트 CareWave</td>
+      <td><a href="https://github.com/SwagCarewave">졸업프로젝트 CareWave</a></td>
       <td>ESP32-S3 펌웨어·프로비저닝·CSI 데이터 수집·행동 분류 모델</td>
     </tr>
   </tbody>
@@ -64,7 +62,7 @@ React와 TypeScript로 **사람들이 실제로 쓰는 화면**을 만듭니다.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 — CareWave 📡</h3>
+      <h3><a href="https://github.com/SwagCarewave">01 — CareWave 📡</a></h3>
       <p><b>카메라 없는 비접촉 행동 감지 시스템</b></p>
       <p>ESP32-S3 송수신 보드와 Wi-Fi CSI를 이용해 서기·눕기·낙상을 분류합니다.</p>
       <code>ESP32-S3</code> <code>Python</code> <code>Wi-Fi CSI</code>
@@ -72,30 +70,30 @@ React와 TypeScript로 **사람들이 실제로 쓰는 화면**을 만듭니다.
       <sub>펌웨어 · 프로비저닝 · 다중 RX 수집 · CSI Stream</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>02 — HALE 🫧</h3>
+      <h3><a href="https://github.com/duckswell">02 — HALE 🫧🏆</a></h3>
       <p><b>맞춤형 피부 관리 루틴 서비스</b></p>
-      <p>피부 상태에 따라 집중·데일리 케어 루틴과 제품을 연결합니다.</p>
+      <p>중앙해커톤에서 개발한 뒤, 어흥콘에서 온보딩 페이지와 게스트 UUID 기능을 추가해 리팩터링했습니다.</p>
       <code>React</code> <code>TypeScript</code>
       <br/><br/>
-      <sub>사용자 플로우 · REST API · 상태 관리</sub>
+      <sub>Frontend · 혁신부문 최우수상 · 21팀, 124명 참가</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 — 어흥콘 · HALE 🏆</h3>
-      <p><b>혁신부문 최우수상 · 21팀, 124명 참가</b></p>
-      <p>중앙해커톤의 HALE에 온보딩 페이지와 게스트 UUID 기능을 추가해 리팩터링했습니다.</p>
-      <code>Frontend</code> <code>React</code> <code>TypeScript</code>
-      <br/><br/>
-      <sub>온보딩 · 게스트 사용자 분리 · 사용자 흐름 개선</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 — 근화제 🌸</h3>
+      <h3><a href="https://github.com/2026-LIKELION-DS">03 — 근화제 🌸</a></h3>
       <p><b>교내 축제 실시간 정보 서비스</b></p>
       <p>행사 기간 6,000명 이상이 사용한 축제 웹사이트의 프론트엔드를 개발했습니다.</p>
       <code>React</code> <code>TypeScript</code> <code>Vite</code>
       <br/><br/>
       <sub>실서비스 운영 · 트래픽 대응 · 기능 개선</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/2026-HERETHON/2026-herethon-4">04 — 여기톤</a></h3>
+      <p><b>여기톤 프로젝트</b></p>
+      <p>프론트엔드 개발자로 참여해 HTML,CSS,JS 기반 화면을 구현했습니다.</p>
+      <code>Frontend</code> <code>HTML</code> <code>CSS</code>  <code>JS</code>
+      <br/><br/>
+      <sub>프론트엔드 개발 참여</sub>
     </td>
   </tr>
 </table>
